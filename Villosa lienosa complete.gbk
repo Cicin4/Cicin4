@@ -1,0 +1,50 @@
+LOCUS       KT285704                 513 bp    DNA     linear   INV 17-FEB-2022
+DEFINITION  Leaunio lienosus voucher FLMNH441251 internal transcribed spacer 1
+            and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT285704
+VERSION     KT285704.1
+KEYWORDS    .
+SOURCE      Leaunio lienosus
+  ORGANISM  Leaunio lienosus
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Mollusca; Bivalvia;
+            Autobranchia; Heteroconchia; Palaeoheterodonta; Unionida;
+            Unionoidea; Unionidae; Ambleminae; Lampsilini; Leaunio.
+REFERENCE   1  (bases 1 to 513)
+  AUTHORS   Pfeiffer,J.M. III, Johnson,N.A., Randklev,C.R., Howells,R.G. and
+            Williams,J.D.
+  TITLE     Generic reclassification and species boundaries in the rediscovered
+            freshwater mussel 'Quadrula' mitchelli (Simpson in Dall, 1896)
+  JOURNAL   Conserv Genet 17 (2), 279-292 (2016)
+REFERENCE   2  (bases 1 to 513)
+  AUTHORS   Pfeiffer,J.M. III and Johnson,N.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUL-2015) Florida Museum of Natural History, 1659
+            Museum Rd, Gainesville, FL 32611, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..513
+                     /organism="Leaunio lienosus"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Big Cypress Creek [Bayou], Hwy 59, just
+                     S of Jefferson, TX, collected from a riffle 150m
+                     downstream of bridge crossing"
+                     /specimen_voucher="FLMNH441251"
+                     /db_xref="taxon:2569902"
+                     /lat_lon="32.7514 N 94.3532 W"
+     misc_RNA        <1..>513
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN      
+        1 gaaggatcat taccgaaaac gagatttaag aaagcgcacg cctttttaga tcgagcgaat
+       61 aatgcatacg gaaagcgaga aaaaagactg ggttgcggag gtggctagat cgcctccttc
+      121 ccggtctata aacccagtgt agatccatgg ccgctggtcg ggggtaccta agtccgaagt
+      181 aggcccgcat gcttcggcgg ggcatgttcg acgagagctt tggtacagcg atggtttaaa
+      241 gagagagctt ccagctacgc ccccgccaca cattcttttc cgccccgtgc ggttttctct
+      301 ttgcgtttta cgtttttgta acaagtcgac gtctcgattt ggccaggttg gctccttatt
+      361 ctcctgcgtc catttcttgt caagtcgatg ccggggtcga tccgtctcgt tcgttgccgg
+      421 acggccaatc gatcctaatc ctatcaagct cccggctcga gagggggcga gaaaggaaat
+      481 tactctaagc ggtggatcac tcggctcgtg ggt
+//
+
